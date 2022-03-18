@@ -1,1 +1,36 @@
 ﻿/* Place Your Custom Styles Here */
+
+@media (max-width: 1200px) {
+  .overlay .overlay-video video {
+    width: 150%;
+  }
+}
+
+@media (max-width: 991px) {
+  .overlay .overlay-video video {
+    width: 300%;
+  }
+}
+
+  @media (max-width: 425px) {
+    .overlay .overlay-video video {
+      width: 400%;
+    }
+  }
+
+@media (max-width: 375px) {
+  .overlay .overlay-video video {
+    width: 366%;
+  }
+}
+
+@media (max-width: 320px) {
+  .overlay .overlay-video video {
+    width: 420%;
+  }
+}
+@media (max-width: 280px) {
+  .overlay .overlay-video video {
+    width: 460%;
+  }
+}
