@@ -693,8 +693,8 @@ body:not(.flyer-animated) .site-navbar-alternative.site-navbar-transparent.scrol
 .navbar-brand-img {
   max-height: 1.5rem;
   width: auto;
-  margin-left: -3.5rem;
-  margin-top: 3rem;
+  margin-left: 0rem;
+  margin-top: 0rem;
 }
 
 .navbar-light .navbar-brand .navbar-brand-img-light {
