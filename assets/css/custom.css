@@ -1,5 +1,17 @@
 ﻿/* Place Your Custom Styles Here */
 
+@media (min-width: 1200px) {
+  .overlay .overlay-video video {
+    width: 100%;
+  }
+}
+
+/* @media (min-width: 1500px) {
+  .overlay .overlay-video video {
+    width: 100%;
+  }
+} */
+
 @media (max-width: 1200px) {
   .overlay .overlay-video video {
     width: 150%;
@@ -12,6 +24,11 @@
   }
 }
 
+@media (max-width: 768px) {
+  .overlay .overlay-video video {
+    width: 200%;
+  }
+}
   @media (max-width: 425px) {
     .overlay .overlay-video video {
       width: 400%;

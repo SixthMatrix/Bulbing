@@ -2251,8 +2251,3 @@ div.featherlight-iframe .featherlight-content {
 
 /* custom mobileview breakpoint */
 
-@media (min-width: 1200px) {
-  .overlay .overlay-video video {
-    width: 100%;
-  }
-}
